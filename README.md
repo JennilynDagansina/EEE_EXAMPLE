@@ -1,8 +1,8 @@
-PROJECT BASED EXAM FOR EEE EXAM
+PROJECT BASED EXAM FOR EEE
 
 
-" An overview of what our Stopwatch looks like"
+Greetings! Here is the Python Stopwatch made by our group, PowEEEr rENGr. Hope you like it. 
 
 
-![Screenshot (72)](https://user-images.githubusercontent.com/105399893/171873924-645a76e4-145e-42ae-814a-fcd978ea8803.png)
+![STOPWATCH](https://user-images.githubusercontent.com/105399893/171876410-c91705fe-1857-497f-86d2-67fb75fde669.png)
 
